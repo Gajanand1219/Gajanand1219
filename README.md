@@ -4,6 +4,8 @@
 ---
 
 ## About Me:
+![Python Badge](https://img.shields.io/badge/About_Me-3776AB?style=flat-square&logo=python&logoColor=white)
+
 - 👋 Hi, I’m **Gajanan Deshmukh**
 - 🎓 **Bachelor of Computer Science** at MGM College of IT, Nanded
 - 💻 Aspiring **Python Developer** | Focused on Deep Learning, Flask, and FastAPI
@@ -18,6 +20,8 @@
 ---
 
 ## Connect with me:
+![Connect Badge](https://img.shields.io/badge/Connect-4CBBF3?style=flat-square)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/gajanan-deshmukh-0771a5250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gajanandeshmukh5823/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
