@@ -62,13 +62,20 @@
 
 ## Stats:
 <p>
-<img align="center" src="https://i.postimg.cc/zBHFL5Rx/Figure-1.png">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajanand1219&show_icons=true&locale=en" alt="gajanand1219" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajanand1219&" alt="gajanand1219" />
+ <img align="center" src="https://i.postimg.cc/zBHFL5Rx/Figure-1.png">
+  
+  ---
+  
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gajanand1219&show_icons=true&locale=en" alt="gajanand1219" />
+  
+  ---
+  
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajanand1219&" alt="gajanand1219" />
+ 
+ ---
   
 </p>
 
 ---
 
 
----
