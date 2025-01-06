@@ -46,7 +46,13 @@
 
 ### Languages and Tools:
 
- ### ![Languages Badge](https://img.shields.io/badge/Languages-4CBBF3?style=flat-square&logo=python&logoColor=white)
+ ### <p align="left"><img src="https://img.shields.io/badge/Languages-10%2B-green?style=flat-square&color=blue" alt="Languages Learned" />
+</p>
+
+
+
+
+
 
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
