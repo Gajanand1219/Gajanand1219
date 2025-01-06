@@ -4,8 +4,8 @@
 ---
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gajanand1219&label=Profile%20views&color=0e75b6&style=flat" alt="gajanand1219" /> 
+<p align="left">
+  <img src="https://img.shields.io/badge/Visitors-20%2B-green" alt="Visitors" />
 </p>
 
 
