@@ -3,6 +3,12 @@
 
 ---
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajanand1219&label=Profile%20views&color=0e75b6&style=flat" alt="gajanand1219" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajanand1219" alt="gajanand1219" /></a> </p>
+
+
 ## About Me:
 ![Python Badge](https://img.shields.io/badge/About_Me-3776AB?style=flat-square&logo=python&logoColor=white)
 
