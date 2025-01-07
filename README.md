@@ -40,6 +40,9 @@
 <a href="https://www.linkedin.com/in/gajanan-deshmukh-0771a5250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gajanandeshmukh5823/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/gajanan19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/users/gajanandeshmukh-0796/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Learn" height="30" width="40" />
+</a>
+
 </p>
 
 ---
