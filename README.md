@@ -1,3 +1,7 @@
+
+![Screenshot 2025-01-06 173504](https://github.com/user-attachments/assets/a23159e4-2f63-4402-8dee-ba6c0d128ac9)
+
+
 <h1 align="center">Hi 👋, I'm Gajanan Deshmukh</h1>
 <h3 align="center">A passionate Python developer</h3>
 
