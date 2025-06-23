@@ -77,6 +77,6 @@ Driven Computer Science student passionate about solving real-world problems wit
 
 - 📧 Email: gajanand1902@gmail.com
 - 🔗 LinkedIn: ([https://linkedin.com/in/gajanandeshmukh](https://www.linkedin.com/in/gajanan-deshmukh2004/)
-- 🐙 GitHub: (https://github.com/gajanandeshmukh)  ](https://github.com/Gajanand1219)
+- 🐙 GitHub: (https://github.com/Gajanand1219)
 
 ---
