@@ -13,7 +13,6 @@ Driven Computer Science student passionate about solving real-world problems wit
 - **Frameworks**: FastAPI, Flask, Streamlit, Chainlit, LangChain  
 - **Frontend**: React.js, Bootstrap, Tailwind CSS  
 - **Cloud**:  
-  - Google Cloud: Vertex AI, Cloud Storage  
   - AWS: EC2, S3  
   - Azure: OpenAI, TTS, Vision APIs  
 - **Databases**: MongoDB, PostgreSQL, SQLite  
@@ -74,7 +73,7 @@ Driven Computer Science student passionate about solving real-world problems wit
 ---
 
 ## 📫 Let's Connect
-
+-    portfolio: https://portfolio-w98d.vercel.app/
 - 📧 Email: gajanand1902@gmail.com
 - 🔗 LinkedIn: ([https://linkedin.com/in/gajanandeshmukh](https://www.linkedin.com/in/gajanan-deshmukh2004/)
 - 🐙 GitHub: (https://github.com/Gajanand1219)
