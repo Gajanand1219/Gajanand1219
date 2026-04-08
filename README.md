@@ -27,39 +27,94 @@ Driven Computer Science student passionate about solving real-world problems wit
 
 ---
 
-## 🌟 Projects
+## 🌟 Projects Portfolio  
 
-### 💬 AI Chatbot (React + FastAPI + JWT)  
+### 🚀 Latest Projects  
+
+### 🧠 Advanced RAG System (Private Repo)  
+- Scalable Retrieval-Augmented Generation pipeline using embeddings and semantic search  
+- Supports multi-document querying with optimized retrieval and context-aware responses  
+
+### 🕸️ Graph RAG System (Private Repo)  
+- Built graph-based retrieval using LangGraph for relationship-aware reasoning  
+- Enables multi-hop queries and structured knowledge extraction  
+
+### 🏥 Medical Graph RAG (Private Repo)  
+- Domain-specific RAG system for medical datasets with entity-relation mapping  
+- Improves accuracy using structured graph retrieval and LLM reasoning  
+
+### 🎥 Video RAG System (Private Repo)  
+- RAG pipeline for video transcripts with chunk-based semantic retrieval  
+- Enables Q&A over long-form video content  
+
+### 🎤 AI Voice Assistant (Private Repo)  
+- Voice-enabled assistant using speech-to-text and text-to-speech  
+- Supports real-time interaction with LLM-based backend  
+
+### ✈️ AI Trip Planner (Private Repo)  
+- AI-based itinerary generator using LLMs and user preference inputs  
+- Provides personalized travel recommendations  
+
+### 🧾 Document OCR + AI Processing (Private Repo)  
+- Extracts text using OCR and processes it with LLM pipelines  
+- Enables intelligent document understanding and automation  
+
+### 🧑‍💻 Code Assistant (Private Repo)  
+- AI-powered coding assistant for debugging and code generation  
+- Supports developer workflows using LLM-based suggestions  
+
+### 🧠 AI Data Science Agent (Private Repo)  
+- Automates ML workflows including regression, classification, clustering  
+- Selects best model using LLM-driven orchestration and evaluation  
+
+### 🍎 Food Nutrition RAG App (Private Repo)  
+- RAG-based system for real-time nutrition insights and calorie tracking  
+- Retrieves food data and generates contextual health recommendations  
+
+### 🧠 Legal Document Analyzer (Private Repo)  
+- AI system for analyzing legal documents and extracting key insights  
+- Uses NLP + LLMs for summarization and clause understanding  
+
+
+### 💬 AI Chatbot (React + FastAPI + JWT)   
 - User-authenticated chatbot with protected chat sessions  
-- Chat history stored per user  
-- React frontend with dynamic login/register popup
+- Chat history stored per user with secure API backend  
 
-### 📄 Resume & JD Analyzer  
-- Resume parser and matcher using NLP, TF-IDF, and Word2Vec  
-- Extracts candidate details and ranks resume vs job description  
-- Suggestions to improve job match score
+### 📄 Resume & JD Analyzer 
+- NLP-based resume parser using TF-IDF and Word2Vec  
+- Matches resumes with job descriptions and gives improvement suggestions  
 
-### 🧠 AI Quiz Generator  
-- Built with Azure OpenAI and FastAPI backend  
-- Users input topics to generate quizzes dynamically  
-- React frontend with live question rendering
+### 🧠 AI Quiz Generator 
+- Generates quizzes dynamically using Azure OpenAI  
+- FastAPI backend with interactive frontend support  
 
-### 🤖 Sales AI Agent (LangGraph + GPT-4o)  
-- AI-powered CLI assistant for sales queries  
-- Built using LangGraph and Azure GPT with memory tracking  
-- Supports multi-turn interactions
+### 🤖 Sales AI Agent (LangGraph + GPT-4o) 
+- CLI-based AI assistant for handling sales-related queries  
+- Supports multi-turn conversations with memory tracking  
 
-### 📚 RAG-based Knowledge Assistant  
-- Upload documents and ask questions  
-- Uses LangChain and FAISS for Retrieval-Augmented Generation  
-- Supports PDFs and raw text inputs
+### 📚 RAG-based Knowledge Assistant 
+- Document Q&A system using LangChain and FAISS  
+- Supports PDFs and raw text with contextual retrieval  
 
-### 📺 YouTube Summary Generator + Chrome Extension  
-- Streamlit app summarizes video content using GPT  
-- Chrome extension adds “Summarize” button directly to YouTube  
-- Real-time integration with transcript APIs
+### 📺 YouTube Summary Generator + Chrome Extension 
+- Summarizes video content using LLMs and transcript APIs  
+- Chrome extension integration for real-time usage  
 
----
+### 🧾 Document OCR System V1  
+- OCR-based text extraction from images and documents  
+- Preprocessing + structured output generation  
+
+### 😊 Face Detection System V1  
+- Computer vision system for face detection using OpenCV  
+- Real-time detection and image processing  
+
+### 🧠 AI Summary Generator  
+- Summarizes long-form text using LLM-based pipelines  
+- Supports dynamic input and contextual summarization  
+
+### 🧠 Basic RAG Prototype 
+- Initial RAG implementation using embeddings + vector DB  
+- Foundation project for advanced RAG systems  ---
 
 ## 🚀 End-to-End Capabilities
 
